@@ -1,0 +1,48 @@
+[user]
+	name = Tim Whitbeck
+	email = tim.whitbeck@stord.com
+[alias]
+	a = add
+	b = branch
+	c = commit
+	d = diff
+	f = fetch
+	g = grep
+	l = log
+	m = merge
+	co = checkout
+	p = pull
+	r = remote
+	s = status
+	w = worktree
+	cl = clone
+	sm = submodule
+	t = tag
+[pager]
+	diff = delta
+	log = delta
+	reflog = delta
+	show = delta
+[core]
+	autocrlf = input
+[color]
+	ui = true
+[diff]
+	colorMoved = default
+[push]
+	followTags = true
+[merge]
+	tool = smerge
+[delta]
+	syntax-theme = Monokai Extended
+	navigate = true
+	line-numbers = true
+[interactive]
+	diffFilter = delta --color-only
+
+[pull]
+	rebase = true
+[fetch]
+	prune = true
+[url "https://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:@github.com"]
+	insteadOf = https://github.com
