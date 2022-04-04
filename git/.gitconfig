@@ -39,10 +39,7 @@
 	line-numbers = true
 [interactive]
 	diffFilter = delta --color-only
-
 [pull]
 	rebase = true
 [fetch]
 	prune = true
-[url "https://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:@github.com"]
-	insteadOf = https://github.com
