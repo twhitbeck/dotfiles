@@ -6,4 +6,3 @@ autocmd InsertEnter * :set norelativenumber
 autocmd InsertLeave * :set relativenumber
 
 set mouse=a
-

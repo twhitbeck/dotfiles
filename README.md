@@ -10,29 +10,43 @@ reevaluating my choices.
 
 The programs that I use regularly and how to install them.
 
+### Dev tools
+
+- [fish](https://fishshell.com/) (install using the ppa)
+    - [fisher](https://github.com/jorgebucaran/fisher)
+    - [tide](https://github.com/IlanCosman/tide)
+    - [tmux.fish](https://github.com/budimanjojo/tmux.fish)
+    - [autopair.fish](https://github.com/jorgebucaran/autopair.fish)
+
 ### CLI utilities
 
+- [atuin](https://atuin.sh/)
 - [bat](https://github.com/sharkdp/bat) (apt package `bat`)
 - [fd](https://github.com/sharkdp/fd) (apt package `fd-find`)
 - [fzf](https://github.com/junegunn/fzf) (https://github.com/junegunn/fzf#using-git)
 - [delta](https://dandavison.github.io/delta/) (https://dandavison.github.io/delta/installation.html)
 - [jq](https://stedolan.github.io/jq/) (apt package `jq`)
-- [rg](https://github.com/BurntSushi/ripgrep) - (apt package `ripgrep`)
+- [rg](https://github.com/BurntSushi/ripgrep) (apt package `ripgrep`)
 - curl (apt package `curl`)
 - pass (apt packages `pass` and `pass-extension-otp`)
 - tmux (apt package `tmux`)
+    - [tpm](https://github.com/tmux-plugins/tpm)
 
 ### Build tools
 
 - [asdf](https://asdf-vm.com/) (https://asdf-vm.com/guide/getting-started.html#_1-install-dependencies)
 - vim (apt package `vim`)
-- [alacritty](https://github.com/alacritty/alacritty) (https://github.com/alacritty/alacritty/blob/master/INSTALL.md#manual-installation)
+- [alacritty](https://github.com/alacritty/alacritty) (https://github.com/mdedonno1337/docker-alacritty)
 - Jetbrains toolbox (https://www.jetbrains.com/toolbox-app/)
+
+### Misc
+
+- [JetbrainsMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/latest)
+    - Download and install fonts from `JetbrainsMono.zip`
 
 ### Gui apps
 
 - Chrome (https://www.google.com/chrome/)
-- [discord](https://discord.com/)
 
 ### Gnome extensions
 

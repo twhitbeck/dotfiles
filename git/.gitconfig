@@ -1,6 +1,6 @@
 [user]
 	name = Tim Whitbeck
-	email = tim.whitbeck@stord.com
+	email = twhitbeck@gmail.com
 [alias]
 	a = add
 	b = branch
@@ -24,6 +24,7 @@
 	reflog = delta
 	show = delta
 [core]
+	pager = delta
 	autocrlf = input
 [color]
 	ui = true
@@ -33,6 +34,7 @@
 	followTags = true
 [merge]
 	tool = smerge
+	conflictstyle = diff3
 [delta]
 	syntax-theme = Monokai Extended
 	navigate = true
